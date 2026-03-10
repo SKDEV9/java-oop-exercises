@@ -47,7 +47,7 @@ public class main {
         System.out.println(lambdaMaiuscula.Manipular("samuel"));
 
 
-        // Usando Filter sem lambda
+        // Usando Filter sem usar lambda
 
         List<String> palavras = Arrays.asList("java", "lambda", "javanautas", "spring");
 
